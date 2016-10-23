@@ -39,5 +39,5 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libthermalclient
 
-$(call inherit-product, vendor/letv/le_x2/vendor/copyfiles.mk)
+$(call inherit-product, vendor/leeco/x2/vendor/copyfiles.mk)
 

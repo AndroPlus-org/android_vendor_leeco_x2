@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),le_x2)
+ifeq ($(TARGET_DEVICE),x2)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := CNEService
